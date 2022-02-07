@@ -2,10 +2,8 @@
 
 ## 1 - Contexto 
 
-Aqui na **Projeto22** "conhecimento" é a palavra-chave, disponibilizamos para nossos colaboradores um acervo contendo milhares de documentos dos mais diversos assuntos, a fim de contribuir na busca interminável pelo saber. 
 
-Queremos aumentar ainda mais a nossa disponibilidade de títulos, mas ultimamente notamos que muitos dos nossos colaboradores relatam a enorme dificuldade de encontrar um documento de um determinado assunto, frente ao enorme acervo que disponibilizamos.<br/> 
-Na esperança de uma solução fácil que permita a pesquisa de informações através de palavras-chave em nossos documentos, consultamos um de nossos maiores especialistas em Engenharia de Software ...**Tobias "The Guy"!** 
+"Conhecimento" é a palavra-chave, disponibilizamos para nossos colaboradores um acervo contendo milhares de documentos dos mais diversos assuntos, a fim de contribuir na busca interminável pelo saber. 
 
 Tobias, com o objetivo de resolver o problema da forma mais simples e eficiente, decidiu utilizar uma representação vetorial para nossos documentos.<br/>
 Mecanismos de pesquisa utilizam diversos tipos de representações de documentos, uma delas é a representação vetorial. Esta representação permite o uso direto de ferramentas matemáticas como distância, similaridade e redução de dimensão. 
@@ -72,6 +70,3 @@ Você encontrará o conjunto de dados de documentos no diretório *dataset* do r
 
 Você deve usar ou **PySpark ou Python puro** para estes *Jobs*
 
-Em caso de dúvidas, enviar email para: **rangel.souza@projeto22.com.br**
-
-__Boa Sorte!__
